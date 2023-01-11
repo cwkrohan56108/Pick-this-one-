@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#stat-container{
+  height:76px;
+  width:1000px;
+  background-color: red;
+}
+show{
+  display:block;
+}
